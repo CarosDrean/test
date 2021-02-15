@@ -1,6 +1,6 @@
 package model
 
 type Item struct {
-	Id string
+	Id   int
 	Name string
 }
